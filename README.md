@@ -1,4 +1,4 @@
-# Pemweb-Pertemuan-5
+# Praktikum-Pemweb-6
 PHP and AJAX basic
 
 NAMA : ATHIF NAJMUDIN
